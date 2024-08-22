@@ -1,0 +1,17 @@
+
+
+.cities-container {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .city-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .city-list li {
+    font-size: 1.2em;
+    margin: 5px 0;
+  }
+  
